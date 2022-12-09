@@ -188,7 +188,7 @@
     clear: both;
   }
   .btn_wrapper {
-    @extend .group;
+    /* @extend .group; */
     max-width: 250px;
     margin: 0 auto;
   }
